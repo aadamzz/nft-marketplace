@@ -8,9 +8,12 @@
 - [Hardhat](https://hardhat.org/)
 - [Polygon](https://polygon.technology/)
 
-### Installation
-
-Install the dependencies and devDependencies and start the server.
+### Installation steps:
+- Install the dependencies and devDependencies
+```sh
+$ npm run start or yarn start
+```
+- [Install Metamask extension to your browser](https://metamask.io/)
 
 ```sh
 $ npm install
