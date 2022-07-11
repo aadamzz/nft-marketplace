@@ -11,11 +11,13 @@
 ## Demo videos
 
 ### Creating new NFT
-https://user-images.githubusercontent.com/46958303/178216336-408ebf31-a945-4a7c-aff8-12fbc1a0ed01.mov
+https://user-images.githubusercontent.com/46958303/178217966-37ad1a57-801b-45c8-b1d2-c06e66ed3423.mp4
 
 ### Listing your NFT for sale
-https://user-images.githubusercontent.com/46958303/178216709-7b464e43-dde2-4df9-b690-4b7818d5effe.mov
+https://user-images.githubusercontent.com/46958303/178218050-3cb5030b-8c45-4640-a59d-6000e176107b.mov
 
-### Buying NFT
-https://user-images.githubusercontent.com/46958303/178216775-fefccead-b69a-4ea0-a7d9-d80e270f103e.mov
+### Purchase NFT
+https://user-images.githubusercontent.com/46958303/178218166-44205a48-4e5c-42f1-b9da-46450639dc8b.mov
+
+
 
