@@ -8,4 +8,8 @@
 - [Hardhat](https://hardhat.org/)
 - [Polygon](https://polygon.technology/)
 
+## Demo videos
+
+### Creating new NFT
+https://user-images.githubusercontent.com/46958303/178216175-3b971d21-36f4-40e4-990e-ae9a66e29a0c.mov
 
